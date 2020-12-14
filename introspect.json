@@ -1,0 +1,18 @@
+{
+    "active": true,
+    "token_type": "Bearer",
+    "client_id": "12345678-0000-1111-2222-1234567890123456",
+    "username": "someuser",
+    "sub": "someuser",
+    "exp": 1607701939,
+    "expstr": "2020-12-11T15:52:19Z",
+    "iat": 1607701579,
+    "nbf": 1607701579,
+    "nbfstr": "2020-12-11T15:46:19Z",
+    "scope": "aws_api.read.",
+    "miscinfo": "[r:gateway]a:6B736F5B9CF39B0C52477B34:F01010101:0015:repository",
+    "consented_on": 1607701579,
+    "consented_on_str": "2020-12-11T15:46:19Z",
+    "grant_type": "password",
+    "client_name": "some_aws_app"
+}
