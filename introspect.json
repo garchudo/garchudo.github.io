@@ -9,7 +9,7 @@
     "iat": 1607701579,
     "nbf": 1607701579,
     "nbfstr": "2020-12-11T15:46:19Z",
-    "scope": "aws_api.read.",
+    "scope": "aws_api.read",
     "miscinfo": "[r:gateway]a:6B736F5B9CF39B0C52477B34:F01010101:0015:repository",
     "consented_on": 1607701579,
     "consented_on_str": "2020-12-11T15:46:19Z",
